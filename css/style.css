@@ -1,3 +1,4 @@
+@media (min-width: 640px){
 h1 {
      font-weight: 200;
      padding: 50px;
@@ -44,4 +45,5 @@ h2 {
 /* Main content */
 .main {
     margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
 }
